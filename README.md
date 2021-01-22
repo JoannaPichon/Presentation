@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**JoannaPichon/JoannaPichon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- formation dev web
+- peu de tuto recherche pas de copier coller de bouts de code
